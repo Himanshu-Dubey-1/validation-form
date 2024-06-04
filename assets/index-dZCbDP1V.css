@@ -1,0 +1,1 @@
+body{display:flex;justify-content:center;align-items:center;height:100vh}.inputField{display:flex;justify-content:center;align-items:center;flex-direction:column;border:2px solid rgb(119,103,96);width:auto;padding:20px;border-radius:8px}input{margin:10px}
